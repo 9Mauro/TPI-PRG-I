@@ -137,7 +137,6 @@ Continente: Europa
 
 - **Repositorio GitHub:** https://github.com/9Mauro/TPI-PRG-I
 - **Video demostrativo:** https://www.youtube.com/watch?v=b0pawWV3tdM
-- **Video demostrativo:** 
 - **Documentación PDF:** incluida en la raíz del repositorio (`TPI_Programacion_I.pdf`).
 
 ## Fuentes
